@@ -1,10 +1,8 @@
-# Proximal and coordinate gradient descent
+# Proximal gradient descent
 
 Implementation of:
  - Proximal gradient descent
  - Accelerated proximal gradient descent
- - Proximal coordinate descent
- - Accelerated proximal coordinate descent
 
 for: 
  - Logisitic regression and 
@@ -16,7 +14,7 @@ The entire optimization routine (including gradient calculations) is implemented
 Dataset:
  - You can download the "news20.binary" from https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/binary.html#news20.binary
 
-Some helpful resources to understand proximal and coorindate gradient descent algorithms:
+Some helpful resources to understand proximal gradient descent algorithms:
 - Will update soon...
 
 
