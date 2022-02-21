@@ -5,8 +5,8 @@ Implementation of:
  - Accelerated proximal gradient descent
 
 for: 
- - Logisitic regression and 
- - Label propagation
+ - Logisitic regression 
+ - Label propagation [Wikipedia](https://en.wikipedia.org/wiki/Label_propagation_algorithm#:~:text=Label%20propagation%20is%20a%20semi,have%20labels%20(or%20classifications).&text=Label%20propagation%20is%20an%20algorithm%20for%20finding%20communities)
  
 The jupyter notbook (proximal_gd.ipynb) introduces the problem and then walks you through the code in detail.
 The entire optimization routine (including gradient calculations) is implemented from scratch.
